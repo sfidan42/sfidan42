@@ -13,6 +13,7 @@
 2) [get_next_line](https://github.com/sfidan42/42_02_get_next_line): read file with static variable
 3) [push_swap](https://github.com/sfidan42/42_03_push_swap): sort numbers (radix sort)
 4) [so_long](https://github.com/sfidan42/42_04_so_long): 2D game 
+5) [minitalk](https://github.com/sfidan42/minitalk): UNIX signals (SIGUSR1, SUGUSR2)
 
 ### Connect with me:
 
