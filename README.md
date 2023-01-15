@@ -1,6 +1,4 @@
-# Hi there, I'm Sadettin - aka [sfidan42](./img/linkedin-light.svg) 👋 
-
-[![Linkedin](./img/linkedIn.svg)](https://www.linkedin.com/in/sadettin-fidan-2313791a3/)
+# Hi there, I'm Sadettin - sfidan42
 
 ## I'm a Software Developer, Engineer, Violinist, and German-Turkish-English speaker!!
 
