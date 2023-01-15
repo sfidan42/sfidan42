@@ -12,10 +12,7 @@
 1) [ft_printf](https://github.com/sfidan42/42_01_ft_printf)
 2) [get_next_line](https://github.com/sfidan42/42_02_get_next_line)
 3) [push_swap](https://github.com/sfidan42/42_03_push_swap)
-4) [so_long](https://github.com/sfidan42/42_00_libft)
-5) [libft](https://github.com/sfidan42/42_00_libft)
-6) [libft](https://github.com/sfidan42/42_00_libft)
-7) [libft](https://github.com/sfidan42/42_00_libft)
+4) [so_long](https://github.com/sfidan42/42_04_so_long)
 
 ### Connect with me:
 
