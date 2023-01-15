@@ -1,6 +1,6 @@
 # Hi there, I'm Sadettin - sfidan42
 
-## I'm a Software Developer, Engineer, Violinist, and German-Turkish-English speaker!!
+## I'm a Software Developer, Engineer, Violinist, and German-Turkish-English speaker!
 
 - 🌱 I’m currently learning literally everything 🤣
 - 👯 I’m looking to collaborate with other game developers from scratch
