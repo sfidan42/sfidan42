@@ -8,11 +8,11 @@
 - 🥅 2025 goals: be a polygot
 
 # My 42 Projects:
-0) [libft](https://github.com/sfidan42/42_00_libft)
-1) [ft_printf](https://github.com/sfidan42/42_01_ft_printf)
-2) [get_next_line](https://github.com/sfidan42/42_02_get_next_line)
-3) [push_swap](https://github.com/sfidan42/42_03_push_swap)
-4) [so_long](https://github.com/sfidan42/42_04_so_long)
+0) [libft](https://github.com/sfidan42/42_00_libft): stdlib functions
+1) [ft_printf](https://github.com/sfidan42/42_01_ft_printf): printf
+2) [get_next_line](https://github.com/sfidan42/42_02_get_next_line): read file with static variable
+3) [push_swap](https://github.com/sfidan42/42_03_push_swap): sort numbers (radix sort)
+4) [so_long](https://github.com/sfidan42/42_04_so_long): 2D game 
 
 ### Connect with me:
 
