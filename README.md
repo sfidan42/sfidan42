@@ -19,10 +19,11 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sadettin_00_f/)
 
 # My 42 Projects:
-01)
-02)
-03)
-04)
-05)
-06)
-07)
+0 libft(https://github.com/sfidan42/42_00_libft)
+1 
+2 
+3 
+4 
+5 
+6 
+7 
