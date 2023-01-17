@@ -15,6 +15,9 @@
 4) [so_long](https://github.com/sfidan42/42_04_so_long): 2D game 
 5) [minitalk](https://github.com/sfidan42/42_05_minitalk): UNIX signals (SIGUSR1, SUGUSR2)
 
+# My Projects for image procesing:
+0) [YTU Design Project Lecture Codes](https://github.com/sfidan42/YTU_ImgProc1)
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](website_link_here!!!!)
