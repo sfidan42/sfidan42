@@ -19,7 +19,7 @@
 0) [YTU Design Project Lecture Codes](https://github.com/sfidan42/YTU_ImgProc1)
 
 # Game Engine project I work on:
-1) [SEngine](https://github.com/sfidan42/YTU_ImgProc1)
+1) [AEngine](https://github.com/sfidan42/AEngine))
 
 ### Connect with me:
 
