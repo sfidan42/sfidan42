@@ -8,7 +8,7 @@
 - 🥅 2025 goals: be a polygot
 
 # My 42 Projects (All are written in C):
-0) [libft](https://github.com/sfidan42/42_00_libft): stdlib functions
+0) [libft](https://github.com/sfidan42/42_00_libft): libc functions
 1) [ft_printf](https://github.com/sfidan42/42_01_ft_printf): printf
 2) [get_next_line](https://github.com/sfidan42/42_02_get_next_line): Read one file line with static variable
 3) [push_swap](https://github.com/sfidan42/42_03_push_swap): Sorting integer numbers (radix sort)
