@@ -21,6 +21,10 @@
 # Game Engine project I work on:
 1) [Enigma Engine](https://github.com/sfidan42/AEngine)
 
+# My Phonebook application
+- ASP.Net Core(C#): [phonebook-api](https://github.com/sfidan42/Phonebook-API)
+- Angular(ts, scss, html): [phonebook-app](https://github.com/sfidan42/Phonebook-APP)
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](website_link_here!!!!)
