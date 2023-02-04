@@ -1,6 +1,6 @@
 # Hi there, I'm Sadettin - sfidan42
 
-## I'm a Software Developer, Engineer, Violinist, and German-Turkish-English speaker!
+### I'm a Software Developer, Engineer, Violinist, and German-Turkish-English speaker!
 
 - 🌱 I’m currently learning literally everything 🤣
 - 👯 I’m looking to collaborate with other game developers from scratch
@@ -15,17 +15,17 @@
 4) [so_long](https://github.com/sfidan42/42_04_so_long): 2D game 
 5) [minitalk](https://github.com/sfidan42/42_05_minitalk): UNIX signals (SIGUSR1, SUGUSR2)
 
-## My Projects for image procesing:
+### My Projects for image procesing:
 - [YTU Design Project Lecture Codes](https://github.com/sfidan42/YTU_ImgProc1)
 
 ## Game Engine project I work on:
 - [Enigma Engine](https://github.com/sfidan42/AEngine)
 
-# My Phonebook application
+### My Phonebook application
 - ASP.Net Core(C#): [phonebook-api](https://github.com/sfidan42/Phonebook-API)
 - Angular(ts, scss, html): [phonebook-app](https://github.com/sfidan42/Phonebook-APP)
 
-### My First Codes
+#### My First Codes
 - [Follow the link, please.](https://github.com/sfidan42/codes)
 
 ### Connect with me:
