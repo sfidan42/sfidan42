@@ -7,7 +7,7 @@
 - 🥅 2023 goals: read 42 reading books.
 - 🥅 2025 goals: be a polygot
 
-# My 42 Projects (All are written in C):
+## My 42 Projects (All are written in C):
 0) [libft](https://github.com/sfidan42/42_00_libft): libc functions
 1) [ft_printf](https://github.com/sfidan42/42_01_ft_printf): printf
 2) [get_next_line](https://github.com/sfidan42/42_02_get_next_line): Read one file line with static variable
@@ -15,17 +15,17 @@
 4) [so_long](https://github.com/sfidan42/42_04_so_long): 2D game 
 5) [minitalk](https://github.com/sfidan42/42_05_minitalk): UNIX signals (SIGUSR1, SUGUSR2)
 
-# My Projects for image procesing:
+## My Projects for image procesing:
 0) [YTU Design Project Lecture Codes](https://github.com/sfidan42/YTU_ImgProc1)
 
-# Game Engine project I work on:
-[Enigma Engine](https://github.com/sfidan42/AEngine)
+## Game Engine project I work on:
+- [Enigma Engine](https://github.com/sfidan42/AEngine)
 
 # My Phonebook application
 - ASP.Net Core(C#): [phonebook-api](https://github.com/sfidan42/Phonebook-API)
 - Angular(ts, scss, html): [phonebook-app](https://github.com/sfidan42/Phonebook-APP)
 
-# My First Codes
+### My First Codes
 [Follow the link, please.](https://github.com/sfidan42/codes)
 
 ### Connect with me:
