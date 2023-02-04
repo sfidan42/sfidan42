@@ -16,7 +16,7 @@
 5) [minitalk](https://github.com/sfidan42/42_05_minitalk): UNIX signals (SIGUSR1, SUGUSR2)
 
 ## My Projects for image procesing:
-0) [YTU Design Project Lecture Codes](https://github.com/sfidan42/YTU_ImgProc1)
+- [YTU Design Project Lecture Codes](https://github.com/sfidan42/YTU_ImgProc1)
 
 ## Game Engine project I work on:
 - [Enigma Engine](https://github.com/sfidan42/AEngine)
@@ -26,7 +26,7 @@
 - Angular(ts, scss, html): [phonebook-app](https://github.com/sfidan42/Phonebook-APP)
 
 ### My First Codes
-[Follow the link, please.](https://github.com/sfidan42/codes)
+- [Follow the link, please.](https://github.com/sfidan42/codes)
 
 ### Connect with me:
 
