@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning literally everything 🤣
 - 👯 I’m looking to collaborate with other game developers from scratch
-- 🥅 2023 goals: read 42 reading books.
+- 🥅 2023 goals: read 42 number of reading books.
 - 🥅 2025 goals: be a polygot
 
 ## My 42 Projects (All are written in C):
