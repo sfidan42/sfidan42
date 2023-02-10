@@ -15,24 +15,20 @@
 4) [minitalk](https://github.com/sfidan42/42_05_minitalk): UNIX signals (SIGUSR1, SUGUSR2)
 5) [so_long](https://github.com/sfidan42/42_04_so_long): 2D game 
 
-### My Projects for image procesing:
-- [YTU Design Project Lecture Codes](https://github.com/sfidan42/YTU_ImgProc1)
-
 ## Game Engine project I work on:
 - [Enigma Engine](https://github.com/sfidan42/AEngine)
 
-### My Phonebook application
-- ASP.Net Core(C#): [phonebook-api](https://github.com/sfidan42/Phonebook-API)
-- Angular(ts, scss, html): [phonebook-app](https://github.com/sfidan42/Phonebook-APP)
-
-### Python Hangman Game without GUI
-- [Hangman Game](https://github.com/sfidan42/Hangman-Game)
-
-### Matlab Covid Visualizer App
-- [Covid-App](https://github.com/sfidan42/Covid-19-Visualizer)
-
-#### My First Codes
-- [Follow the link, please.](https://github.com/sfidan42/codes)
+### Others
+- Python Projects:
+    - [Hangman Game](https://github.com/sfidan42/Hangman-Game)
+    - [YTU Design Project Lecture Codes](https://github.com/sfidan42/YTU_ImgProc1)
+- Matlab Projects:
+    - [Covid-App](https://github.com/sfidan42/Covid-19-Visualizer)
+- My Phonebook application
+    - ASP.Net Core(C#): [phonebook-api](https://github.com/sfidan42/Phonebook-API)
+    - Angular(ts, scss, html): [phonebook-app](https://github.com/sfidan42/Phonebook-APP)
+- My First Codes
+     - [Follow the link, please.](https://github.com/sfidan42/codes)
 
 ### Connect with me:
 
