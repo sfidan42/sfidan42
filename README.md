@@ -25,8 +25,8 @@
 - Matlab Projects:
     - [Covid-App](https://github.com/sfidan42/Covid-19-Visualizer)
 - My Phonebook application
-    - [phonebook-api](https://github.com/sfidan42/Phonebook-API): ASP.Net Core(C#)
-    - [phonebook-app](https://github.com/sfidan42/Phonebook-APP): Angular(ts, scss, html)
+    - [phonebook-api](https://github.com/sfidan42/Phonebook-API): .Net Core (C#)
+    - [phonebook-app](https://github.com/sfidan42/Phonebook-APP): Angular Fr.
 - My First Codes
      - [Follow the link, please.](https://github.com/sfidan42/codes)
 
