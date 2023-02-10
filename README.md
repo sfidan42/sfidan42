@@ -12,8 +12,8 @@
 1) [ft_printf](https://github.com/sfidan42/42_01_ft_printf): printf
 2) [get_next_line](https://github.com/sfidan42/42_02_get_next_line): Read one file line with static variable
 3) [push_swap](https://github.com/sfidan42/42_03_push_swap): Sorting integer numbers (radix sort)
-4) [so_long](https://github.com/sfidan42/42_04_so_long): 2D game 
-5) [minitalk](https://github.com/sfidan42/42_05_minitalk): UNIX signals (SIGUSR1, SUGUSR2)
+4) [minitalk](https://github.com/sfidan42/42_05_minitalk): UNIX signals (SIGUSR1, SUGUSR2)
+5) [so_long](https://github.com/sfidan42/42_04_so_long): 2D game 
 
 ### My Projects for image procesing:
 - [YTU Design Project Lecture Codes](https://github.com/sfidan42/YTU_ImgProc1)
