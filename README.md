@@ -25,6 +25,12 @@
 - ASP.Net Core(C#): [phonebook-api](https://github.com/sfidan42/Phonebook-API)
 - Angular(ts, scss, html): [phonebook-app](https://github.com/sfidan42/Phonebook-APP)
 
+### Hangman Game without GUI
+- [Hangman Game with python](https://github.com/sfidan42/Hangman-Game)
+
+### Matlab Covid Visualizer App
+- [Covid-App](https://github.com/sfidan42/Covid-19-Visualizer)
+
 #### My First Codes
 - [Follow the link, please.](https://github.com/sfidan42/codes)
 
