@@ -10,9 +10,16 @@
 - 🥅 2023 goals: read 42 number of reading books.
 - 🥅 2025 goals: be a polygot
 
-[![Sadettin's github && 42 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sfidan42&theme=vision-friendly-light)](https://github.com/sfidan42)
-[![Sadettin's github && 42 stats](https://github-readme-stats.vercel.app/api?username=sfidan42&show_icons=github&theme=vision-friendly-light)](https://github.com/sfidan42)
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+  <div align="center">
+    <a href="https://github.com/0xsfidan42/">
+      <img src="https://github-readme-stats.vercel.app/api?username=0xsfidan42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsfidan42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xsfidan42"/>
+    </a>
+  </div>
+ <br>
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## My 42 Projects (All are written in C):
