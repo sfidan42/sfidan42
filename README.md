@@ -8,7 +8,6 @@
 - 🥅 2025 goals: be a polygot
 
 [![Sadettin's github && 42 stats](https://github-readme-stats.vercel.app/api?username=sfidan42&show_icons=github&theme=vision-friendly-light)](https://github.com/sfidan42)
-[![Sadettin's github && 42 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sfidan42&layout=compact&theme=vision-friendly-light)](https://github.com/sfidan42)
 
 ## My 42 Projects (All are written in C):
 0) [libft](https://github.com/sfidan42/42_00_libft): libc functions
@@ -20,6 +19,8 @@
 - Note: these projects have their main functions inside the project_name.c files.
 ## Game Engine project I work on:
 - [Enigma Engine](https://github.com/sfidan42/AEngine)
+
+[![Sadettin's github && 42 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sfidan42&layout=compact&theme=vision-friendly-light)](https://github.com/sfidan42)
 
 ### Others
 - Python Projects:
