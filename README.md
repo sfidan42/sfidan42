@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , Hi there, I'm Sadettin - sfidan42 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=20&lines=Self-taught+Game+Developer,;Computer+Science+Student,;Electronics+and+Communication+Engineer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=600&height=20&lines=Self-taught+Game+Developer,;Computer+Science+Student,;Electronics+and+Communication+Engineer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 ### I'm a Software Developer, Engineer, Violinist, and German-Turkish-English speaker!
