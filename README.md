@@ -1,3 +1,10 @@
+
+<h1 align="center"><b>Hi , Hi there, I'm Sadettin - sfidan42 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
 # Hi there, I'm Sadettin - sfidan42
 
 ### I'm a Software Developer, Engineer, Violinist, and German-Turkish-English speaker!
@@ -6,8 +13,8 @@
 - 👯 I’m looking to collaborate with other game developers from scratch
 - 🥅 2023 goals: read 42 number of reading books.
 - 🥅 2025 goals: be a polygot
+- 
 [![Sadettin's github && 42 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sfidan42&theme=vision-friendly-light)](https://github.com/sfidan42)
-
 [![Sadettin's github && 42 stats](https://github-readme-stats.vercel.app/api?username=sfidan42&show_icons=github&theme=vision-friendly-light)](https://github.com/sfidan42)
 
 ## My 42 Projects (All are written in C):
