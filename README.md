@@ -32,7 +32,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
-<div>
+
 ### Others
 - Python Projects:
     - [Hangman Game](https://github.com/sfidan42/Hangman-Game)
@@ -44,10 +44,7 @@
     - [phonebook-app](https://github.com/sfidan42/Phonebook-APP): Angular Fr.
 - My First Codes
      - [Follow the link, please.](https://github.com/sfidan42/codes)
-</div>
-<img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="150"/>
- 
-  
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](website_link_here!!!!)
