@@ -56,4 +56,4 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/sadettin_00_f/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sadettin_00_f/)
 
-<img src="https://github.com/sfidan42/map.png">
+<img src="https://github.com/sfidan42/sfidan42/map.png">
