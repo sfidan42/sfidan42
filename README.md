@@ -19,8 +19,6 @@
     </a>
   </div>
  <br>
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## My 42 Projects (All are written in C):
 0) [libft](https://github.com/sfidan42/42_00_libft): libc functions
@@ -32,8 +30,6 @@
 - Note: these projects have their main functions inside the project_name.c files.
 ## Game Engine project I work on:
 - [Enigma Engine](https://github.com/sfidan42/AEngine)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### Others
 - Python Projects:
