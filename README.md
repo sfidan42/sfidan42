@@ -31,6 +31,8 @@
 ## Game Engine project I work on:
 - [Enigma Engine](https://github.com/sfidan42/AEngine)
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="20px">
+
 ### Others
 - Python Projects:
     - [Hangman Game](https://github.com/sfidan42/Hangman-Game)
