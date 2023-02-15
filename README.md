@@ -8,7 +8,6 @@
 - 🥅 2025 goals: be a polygot
 
 [![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=sfidan42&show_icons=github&theme=vision-friendly-dark)](https://github.com/sfidan42)
-
 [![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sfidan42&layout=compact&theme=vision-friendly-dark)](https://github.com/sfidan42)
 
 ## My 42 Projects (All are written in C):
