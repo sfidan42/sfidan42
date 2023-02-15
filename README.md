@@ -4,6 +4,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=20&lines=1.Self-taught+Game+Developer,;2.Computer+Sciencer,;3.Electronics+and+Communication+Eng.,;4.Active+Learner/Researcher,;5.Violinist,;6.German-Turkish-English+speaker,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldosd33000540fmzhlm4gw7b/stats?cursusId=21&coalitionId=45" alt="cclaude's 42 stats" /></a>
+</p>
+
 - 🌱 I’m currently learning literally everything 🤣
 - 👯 I’m looking to collaborate with other game developers from scratch
 - 🥅 2023 goals: read 42 number of reading books.
