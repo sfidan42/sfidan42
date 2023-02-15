@@ -9,7 +9,7 @@
 - 🥅 2023 goals: read 42 number of reading books.
 - 🥅 2025 goals: be a polygot
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <b> Github Stats </b>
 <br>
   <div align="center">
     <a href="https://github.com/sfidan42/">
