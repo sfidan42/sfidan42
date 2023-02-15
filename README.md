@@ -32,7 +32,6 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
-
 ### Others
 - Python Projects:
     - [Hangman Game](https://github.com/sfidan42/Hangman-Game)
@@ -55,5 +54,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/sadettin_00_f/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sadettin_00_f/)
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
 <img src="https://github.com/sfidan42/sfidan42/blob/master/map.png">
