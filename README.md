@@ -22,7 +22,7 @@
   </div>
  <br>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="3px">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
 ## My 42 Projects (All are written in C):
 0) [libft](https://github.com/sfidan42/42_00_libft): libc functions
@@ -36,7 +36,7 @@
 ## Game Engine project I work on:
 - [Enigma Engine](https://github.com/sfidan42/AEngine)
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="3px">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
 ### Others
 - Python Projects:
@@ -61,6 +61,6 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/sadettin_00_f/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sadettin_00_f/)
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="3px">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
 <img src="https://github.com/sfidan42/sfidan42/blob/master/map.png">
