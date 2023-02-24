@@ -24,7 +24,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
-# DigitalGate Projects
+## DigitalGate Projects
 - [Coding Challenge](https://github.com/sfidan42/Holy_DigitalGate_Project)
 
 ## My 42 Projects (All are written in C):
