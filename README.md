@@ -24,6 +24,9 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
+# DigitalGate Projects
+- [Coding Challenge](https://github.com/sfidan42/Holy_DigitalGate_Project)
+
 ## My 42 Projects (All are written in C):
 0) [libft](https://github.com/sfidan42/42_00_libft): libc functions
 1) [ft_printf](https://github.com/sfidan42/42_01_ft_printf): printf
