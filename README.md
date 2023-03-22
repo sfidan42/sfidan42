@@ -28,14 +28,14 @@
 - [Coding Challenge](https://github.com/sfidan42/Holy_DigitalGate_Project)
 
 ## My 42 Projects (All are written in C):
-0) [libft](https://github.com/sfidan42/42_00_libft): libc functions
-1) [ft_printf](https://github.com/sfidan42/42_01_ft_printf): printf
+0) [libft](https://github.com/sfidan42/42_00_libft): libc functions' library. DIY
+1) [ft_printf](https://github.com/sfidan42/42_01_ft_printf): printf itself
 2) [get_next_line](https://github.com/sfidan42/42_02_get_next_line): Read one file line with static variable
-3) [push_swap](https://github.com/sfidan42/42_03_push_swap): Sorting integer numbers (radix sort)
+3) [push_swap](https://github.com/sfidan42/42_03_push_swap): Sorting integer numbers (radix sort) in stack structure
 4) [minitalk](https://github.com/sfidan42/42_05_minitalk): UNIX signals (SIGUSR1, SUGUSR2)
-5) [so_long](https://github.com/sfidan42/42_04_so_long): 2D game
-6) [minishell](https://github.com/sfidan42/42_06_minishell) : UNIX Shell
-7) [philosophers](https://github.com/sfidan42/42_07_philosophers)
+5) [so_long](https://github.com/sfidan42/42_04_so_long): 2D game from scratch
+6) [minishell](https://github.com/sfidan42/42_06_minishell): A small but not easy UNIX Shell. DIY
+7) [philosophers](https://github.com/sfidan42/42_07_philosophers): threads and mutexes
 - Note: these projects have their main functions inside the project_name.c files.
 ## Game Engine project I work on:
 - [Enigma Engine](https://github.com/sfidan42/AEngine)
