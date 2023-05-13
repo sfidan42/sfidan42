@@ -37,7 +37,7 @@
 6) [minishell](https://github.com/sfidan42/42_06_minishell): A small but not easy UNIX Shell. DIY
 7) [philosophers](https://github.com/sfidan42/42_07_philosophers): threads and mutexes
 8) [Netpractice](): ***Not yet avaliable***
-9) [Cpp Modules 00-04](): ***Not yet avaliable***
+9) [Cpp Modules 00-04](https://github.com/sfidan42/42_08_Cpp_Modules): Cpp Beginner but not easy
 10) [Cub3d](): ***Not yet avaliable***
 11) [Cpp Modules 05-09](): ***Not yet avaliable***
 12) [ft_irc](): ***Not yet avaliable***
