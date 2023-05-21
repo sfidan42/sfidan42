@@ -26,7 +26,7 @@
 
 ## DigitalGate Projects
 - [Coding Challenge](https://github.com/sfidan42/Holy_DigitalGate_Project)
-- 
+
 ## 42 
 0) [libft](https://github.com/sfidan42/42_00_libft): libc functions' library. DIY
 1) [ft_printf](https://github.com/sfidan42/42_01_ft_printf): printf itself
