@@ -27,7 +27,6 @@
 ## DigitalGate Projects
 - [Coding Challenge](https://github.com/sfidan42/Holy_DigitalGate_Project)
 
-
 ## Ecole 42
 0) libft: libc functions' library. DIY
 1) ft_printf: printf itself
@@ -44,7 +43,6 @@
 12) ft_irc: ***Not yet avaliable***
 13) Inception: ***Not yet avaliable***
 14) Transcendence: ***Not yet avaliable***
-- Note: these projects have their main functions inside the project_name.c files.
 
 ## Game Engine project I work on:
 - [Enigma Engine](https://github.com/sfidan42/AEngine)
