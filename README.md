@@ -15,15 +15,16 @@
 ## Github Stats
 <br>
 <div align="center">
-  <a href="https://github.com/sfidan42/">
-    <img src="https://github-readme-stats.vercel.app/api?username=sfidan42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="sfidan's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/sfidan42/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sfidan42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="sfidan's Top Languages"/>
-  </a>
+  <div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/sfidan42/" style="flex: 1;">
+      <img src="https://github-readme-stats.vercel.app/api?username=sfidan42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="sfidan's GitHub Stats"/>
+    </a>
+    <a href="https://github.com/sfidan42/" style="flex: 1;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sfidan42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="sfidan's Top Languages"/>
+    </a>
+  </div>
 </div>
 <br>
-
  
  ## My 42 Stats
 <br>
@@ -32,7 +33,6 @@
     <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=21&coalitionId=228" alt="sfidan's 42 stats" width="410" /></a>
   </div>
  <br>
-
   
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
