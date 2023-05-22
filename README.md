@@ -13,18 +13,10 @@
 - 🥅 2025 goals: be a polyglot
 
 ## Github Stats
-<br>
-<div align="center">
-  <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/sfidan42/" style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sfidan42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="sfidan's GitHub Stats"/>
-    </a>
-    <a href="https://github.com/sfidan42/" style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sfidan42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="sfidan's Top Languages"/>
-    </a>
-  </div>
-</div>
-<br>
+|                                                               |                                                               |
+|---------------------------------------------------------------|---------------------------------------------------------------|
+| [![sfidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfidan42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/sfidan42/) | [![sfidan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sfidan42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/sfidan42/) |
+
  
  ## My 42 Stats
 <br>
