@@ -24,15 +24,11 @@
  
  ## My 42 Stats
 <br>
-<div align="center">
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=9&coalitionId=piscine" alt="sfidan's 42 stats" style="width: 50%;" />
-  </a>
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=21&coalitionId=228" alt="sfidan's 42 stats" style="width: 50%;" />
-  </a>
-</div>
-<br>
+  <div align="center">
+    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=9&coalitionId=piscine" alt="sfidan's 42 stats" width="410" /></a>
+    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=21&coalitionId=228" alt="sfidan's 42 stats" width="410" /></a>
+  </div>
+ <br>
 
   
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
