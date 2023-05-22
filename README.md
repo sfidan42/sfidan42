@@ -27,6 +27,25 @@
 ## DigitalGate Projects
 - [Coding Challenge](https://github.com/sfidan42/Holy_DigitalGate_Project)
 
+
+## Ecole 42
+0) libft: libc functions' library. DIY
+1) ft_printf: printf itself
+2) get_next_line: Read one file line with static variable
+3) push_swap: Sorting integer numbers (radix sort) in stack structure
+4) minitalk: UNIX signals (SIGUSR1, SUGUSR2)
+5) so_long: 2D game from scratch
+6) minishell: A small but not easy UNIX Shell. DIY
+7) philosophers: threads and mutexes
+8) Cpp Modules 00-04: Cpp Beginner but not easy
+9) Netpractice: Networking exercise
+10) Cub3d]: ***Not yet avaliable***
+11) Cpp Modules 05-09: ***Not yet avaliable***
+12) ft_irc: ***Not yet avaliable***
+13) Inception: ***Not yet avaliable***
+14) Transcendence: ***Not yet avaliable***
+- Note: these projects have their main functions inside the project_name.c files.
+
 ## Game Engine project I work on:
 - [Enigma Engine](https://github.com/sfidan42/AEngine)
 
