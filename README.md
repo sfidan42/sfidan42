@@ -72,6 +72,3 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/sadettin_00_f/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sadettin_00_f/)
-
-![42 Holy Graph](https://badge42.herokuapp.com/api/stats/sfidan)
-
