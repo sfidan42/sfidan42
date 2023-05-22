@@ -71,6 +71,3 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/sadettin_00_f/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sadettin_00_f/)
-
-### My 42 Holy Graph
-![img](img/holy_graph.png)
