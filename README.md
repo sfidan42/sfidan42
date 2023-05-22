@@ -21,6 +21,17 @@
     </a>
   </div>
  <br>
+ 
+ ## My 42 Stats
+<br>
+  <div align="center">
+    <a href="https://github.com/sfidan42/">
+      [![sfidan's 42 stats](https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+      [![sfidan's 42 stats](https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=21&coalitionId=228)](https://github.com/JaeSeoKim/badge42)
+    </a>
+  </div>
+ <br>
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
