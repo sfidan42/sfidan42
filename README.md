@@ -39,7 +39,7 @@
 7) philosophers: threads and mutexes
 8) Cpp Modules 00-04: Cpp Beginner but not easy
 9) Netpractice: Networking exercise
-10) Cub3d]: ***Not yet avaliable***
+10) miniRT: ***Not yet avaliable***
 11) Cpp Modules 05-09: ***Not yet avaliable***
 12) ft_irc: ***Not yet avaliable***
 13) Inception: ***Not yet avaliable***
