@@ -21,21 +21,21 @@
 - [Coding Challenge](https://github.com/sfidan42/Holy_DigitalGate_Project)
 
 ## 42 Istanbul projects (All are private and written mostly in C)
-0) libft: libc functions' library. DIY
-1) ft_printf: the printf function itself
-2) get_next_line: Read one file line with static variable. Similar to readline function.
-3) push_swap: Sorting integer numbers (radix sort) in stack structure.
-4) minitalk: send data between terminals using UNIX signals (SIGUSR1, SUGUSR2)
-5) so_long: A 2D game from scratch
-6) minishell: A small but not easy UNIX Shell. Similar to bash. DIY
-7) philosophers: Dining philosophers problem using threads and mutexes
-8) Cpp Modules 00-04: Cpp Beginner but not easy
-9) Netpractice: Networking exercise
-10) miniRT: ***Not yet avaliable*** (A raytracing project from scratch)
-11) Cpp Modules 05-09: ***Not yet avaliable*** (Advanced C++)
-12) ft_irc: ***Not yet avaliable*** (IRC client written in C++)
-13) Inception: ***Not yet avaliable*** (Docker)
-14) Transcendence: ***Not yet avaliable*** (PONG game)
+0) **libft**: libc functions' library. DIY
+1) **ft_printf**: the printf function itself
+2) **get_next_line**: Read one file line with static variable. Similar to readline function.
+3) **push_swap**: Sorting integer numbers (radix sort) in stack structure.
+4) **minitalk**: send data between terminals using UNIX signals (SIGUSR1, SUGUSR2)
+5) **so_long**: A 2D game from scratch
+6) **minishell**: A small but not easy UNIX Shell. Similar to bash. DIY
+7) **philosophers**: Dining philosophers problem using threads and mutexes
+8) **Cpp Modules 00-04**: Cpp Beginner but not easy
+9) **Netpractice**: Networking exercise
+10) **miniRT**: ***Not yet avaliable*** (A raytracing project from scratch)
+11) **Cpp Modules 05-09**: ***Not yet avaliable*** (Advanced C++)
+12) **ft_irc**: ***Not yet avaliable*** (IRC client written in C++)
+13) **Inception**: ***Not yet avaliable*** (Docker)
+14) **Transcendence**: ***Not yet avaliable*** (PONG game)
 
 ## Game Engine project I work on:
 - [Enigma Engine](https://github.com/sfidan42/AEngine)
