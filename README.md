@@ -2,11 +2,10 @@
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=23&center=true&vCenter=true&width=600&height=20&lines=1.Self-taught+Game+Developer,;2.Computer+Sciencer,;3.Electronics+and+Communication+Eng.,;4.Active+Learner/Researcher,;5.Violinist,;6.German-Turkish-English+speaker,;Love+to+learn+new+stuffs..<3"></a>
 
-<!--
 <p align="center">
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldosd33000540fmzhlm4gw7b/stats?cursusId=21&coalitionId=45" alt="sfidan's 42 stats" /></a>
 </p>
--->
+
 - 🌱 I’m currently learning literally everything 🤣
 - 👯 I’m looking to collaborate with other game developers from scratch
 - 🥅 2023 goals: read 42 number of reading books.
@@ -16,8 +15,6 @@
 | [![sfidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfidan42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/sfidan42/) | [![sfidan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sfidan42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/sfidan42/) |
 |---|---|
 
-
- 
  ## My 42 Stats
 | [![sfidan's 42 stats](https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42) | [![sfidan's 42 stats](https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=21&coalitionId=365)](https://github.com/JaeSeoKim/badge42) |
 |---|---|
@@ -27,7 +24,7 @@
 ## DigitalGate Projects
 - [Coding Challenge](https://github.com/sfidan42/Holy_DigitalGate_Project)
 
-## Ecole 42
+## 42 Istanbul projects (All are private)
 0) libft: libc functions' library. DIY
 1) ft_printf: printf itself
 2) get_next_line: Read one file line with static variable
