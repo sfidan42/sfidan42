@@ -21,9 +21,7 @@
 - [Coding Challenge](https://github.com/sfidan42/Holy_DigitalGate_Project)
 
 ## 42 Istanbul projects (All are private and written mostly in C)
-0) <span style="color:red">
-libft
-</span> : libc functions' library. DIY
+0) <span style="color:red;">libft</span>: libc functions' library. DIY
 1) **ft_printf**: the printf function itself
 2) **get_next_line**: Read one file line with static variable. Similar to readline function.
 3) **push_swap**: Sorting integer numbers (radix sort) in stack structure.
