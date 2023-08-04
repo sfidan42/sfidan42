@@ -43,6 +43,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
 ### Others
+- vec3 library in C
+    - [C vec3](https://github.com/sfidan42/vec3-library-diy)
 - Python Projects:
     - [Hangman Game](https://github.com/sfidan42/Hangman-Game)
     - [YTU Design Project Lecture Codes](https://github.com/sfidan42/YTU_ImgProc1)
