@@ -1,134 +1,68 @@
-<h1 align="center">
-  <b>Hi there, I'm Sadettin - sfidan42</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h1 align="center"><b>Hi there, I'm Sadettin - sfidan42 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=23&center=true&vCenter=true&width=600&height=20&lines=1.Self-taught+Game+Developer,;2.Computer+Scientist,;3.Computer Engineer;4.Electronics+and+Communication+Eng.,;5.Active+Learner/Researcher,;6.Violinist,;7.German-Turkish-English+Speaker,;Love+to+Learn+New+Stuff+%3C3">
-  </a>
-</p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=23&center=true&vCenter=true&width=600&height=20&lines=1.Self-taught+Game+Developer,;2.Computer+Sciencer,;3.Computer Engineer;4.Electronics+and+Communication+Eng.,;5.Active+Learner/Researcher,;6.Violinist,;7.German-Turkish-English+speaker,;Love+to+learn+new+stuffs..<3"></a>
 
-<p align="center">
-  <em>Learning everything, one step at a time</em> 🤣
-</p>
+- 🌱 I’m currently learning literally everything 🤣
+- 👯 I’m looking to collaborate with other game developers from scratch
+- 🥅 2023 goals: read 42 number of reading books.
+- 🥅 2025 goals: be a polyglot
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sadettin-fidan-2313791a3/">
-    <img src="./img/linkedin-light.svg" alt="LinkedIn" width="20" />
-  </a>
-  <a href="https://www.instagram.com/sadettin_00_f/">
-    <img src="./img/instagram-light.svg" alt="Instagram" width="20" />
-  </a>
-</p>
+## Github Stats
+| [![sfidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfidan42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/sfidan42/) | [![sfidan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sfidan42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/sfidan42/) |
+|---|---|
 
-<p align="center">
-  <b>2023 goals:</b> Read 42 books | <b>2025 goals:</b> Become a polyglot
-</p>
+ ## My 42 Stats
+| [![sfidan's 42 stats](https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42) | [![sfidan's 42 stats](https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=21&coalitionId=365)](https://github.com/JaeSeoKim/badge42) |
+|---|---|
+  
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
-<hr>
+## DigitalGate Projects
+- [Coding Challenge](https://github.com/sfidan42/Holy_DigitalGate_Project)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sfidan42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sfidan42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages">
-</p>
+## 42 Istanbul projects (All are private and written mostly in C)
+0) **libft**: libc functions' library. DIY
+1) **ft_printf**: the printf function itself
+2) **get_next_line**: Read one file line with static variable. Similar to readline function.
+3) **push_swap**: Sorting integer numbers (radix sort) in stack structure.
+4) **minitalk**: send data between terminals using UNIX signals (SIGUSR1, SUGUSR2)
+5) **so_long**: A 2D game from scratch
+6) **minishell**: A small but not easy UNIX Shell. Similar to bash. DIY
+7) **philosophers**: Dining philosophers problem using threads and mutexes
+8) **Cpp Modules 00-04**: Cpp Beginner but not easy
+9) **Netpractice**: Networking exercise
+10) **miniRT**: ***Not yet avaliable*** (A raytracing project from scratch)
+11) **Cpp Modules 05-09**: ***Not yet avaliable*** (Advanced C++)
+12) **ft_irc**: ***Not yet avaliable*** (IRC client written in C++)
+13) **Inception**: ***Not yet avaliable*** (Docker)
+14) **Transcendence**: ***Not yet avaliable*** (PONG game)
 
-<p align="center">
-  <b>My 42 Stats</b>
-</p>
+## Game Engine project I work on:
+- [Enigma Engine](https://github.com/sfidan42/AEngine)
 
-<p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=9&coalitionId=piscine" alt="42 Stats" />
-  </a>
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=21&coalitionId=365" alt="42 Stats" />
-  </a>
-</p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
-<p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
-</p>
+### Others
+- vec3 library in C
+    - [C vec3](https://github.com/sfidan42/vec3-library-diy)
+- Python Projects:
+    - [Hangman Game](https://github.com/sfidan42/Hangman-Game)
+    - [YTU Design Project Lecture Codes](https://github.com/sfidan42/YTU_ImgProc1)
+- Matlab Projects:
+    - [Covid-App](https://github.com/sfidan42/Covid-19-Visualizer)
+- My Phonebook application
+    - [phonebook-api](https://github.com/sfidan42/Phonebook-API): .Net Core (C#)
+    - [phonebook-app](https://github.com/sfidan42/Phonebook-APP): Angular Fr.
+- My First Codes
+     - [Follow the link, please.](https://github.com/sfidan42/codes)
 
-<h2 align="center">DigitalGate Projects</h2>
+### Connect with me:
 
-<p align="center">
-  <a href="https://github.com/sfidan42/Holy_DigitalGate_Project">Coding Challenge</a>
-</p>
-
-<h2 align="center">42 Istanbul Projects</h2>
-
-<p align="center">
-  0) <b>libft:</b> libc functions' library. DIY<br>
-  1) <b>ft_printf:</b> the printf function itself<br>
-  2) <b>get_next_line:</b> Read one file line with static variable. Similar to readline function.<br>
-  3) <b>push_swap:</b> Sorting integer numbers (radix sort) in stack structure.<br>
-  4) <b>minitalk:</b> Send data between terminals using UNIX signals (SIGUSR1, SIGUSR2)<br>
-  5) <b>so_long:</b> A 2D game from scratch<br>
-  6) <b>minishell:</b> A small but not easy UNIX Shell. Similar to bash. DIY<br>
-  7) <b>philosophers:</b> Dining philosophers problem using threads and mutexes<br>
-  8) <b>Cpp Modules 00-04:</b> Cpp Beginner but not easy<br>
-  9) <b>Netpractice:</b> Networking exercise<br>
-  10) <b>miniRT:</b> <i>Not yet available</i> (A raytracing project from scratch)<br>
-  11) <b>Cpp Modules 05-09:</b> <i>Not yet available</i> (Advanced C++)<br>
-  12) <b>ft_irc:</b> <i>Not yet available</i> (IRC client written in C++)<br>
-  13) <b>Inception:</b> <i>Not yet available</i> (Docker)<br>
-  14) <b>Transcendence:</b> <i>Not yet available</i> (PONG game)
-</p>
-
-<h2 align="center">Game Engine Project</h2>
-
-<p align="center">
-  <a href="https://github.com/sfidan42/AEngine">Enigma Engine</a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
-</p>
-
-<h2 align="center">Other Projects</h2>
-
-<p align="center">
-  <b>vec3 library in C:</b> <a href="https://github.com/sfidan42/vec3-library-diy">C vec3</a><br>
-  <b>Python Projects:</b><br>
-  - <a href="https://github.com/sfidan42/Hangman-Game">Hangman Game</a><br>
-  - <a href="https://github.com/sfidan42/YTU_ImgProc1">YTU Design Project Lecture Codes</a><br>
-  <b>Matlab Projects:</b><br>
-  - <a href="https://github.com/sfidan42/Covid-19-Visualizer">Covid-App</a><br>
-  <b>My Phonebook Application:</b><br>
-  - <a href="https://github.com/sfidan42/Phonebook-API">phonebook-api</a>: .Net Core (C#)<br>
-  - <a href="https://github.com/sfidan42/Phonebook-APP">phonebook-app</a>: Angular Fr.<br>
-  <b>My First Codes:</b><br>
-  - <a href="https://github.com/sfidan42/codes">Follow the link, please.</a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
-</p>
-
-<p align="center">
-  <b>Connect with me:</b>
-</p>
-
-<p align="center">
-  <a href="website_link_here!!!!">
-    <img src="./img/globe-light.svg" alt="Website Light" width="30" />
-  </a>
-  <a href="website_link_here!!!!">
-    <img src="./img/globe-dark.svg" alt="Website Dark" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sadettin-fidan-2313791a3/">
-    <img src="./img/linkedin-light.svg" alt="LinkedIn Light" width="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/sadettin-fidan-2313791a3/">
-    <img src="./img/linkedin-dark.svg" alt="LinkedIn Dark" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/sadettin_00_f/">
-    <img src="./img/instagram-light.svg" alt="Instagram Light" width="30" />
-  </a>
-  <a href="https://www.instagram.com/sadettin_00_f/">
-    <img src="./img/instagram-dark.svg" alt="Instagram Dark" width="30" />
-  </a>
-</p>
+[![website](./img/globe-light.svg)](website_link_here!!!!)
+[![website](./img/globe-dark.svg)](website_link_here!!!!)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sadettin-fidan-2313791a3/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sadettin-fidan-2313791a3/)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/sadettin_00_f/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/sadettin_00_f/)
