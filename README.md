@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there, I'm Sadettin - sfidan42 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-| [!robot_left](img/robot_left) | [!robot_right](img/robot_right) |
+| ![robot_left](img/robot_left) | ![robot_right](img/robot_right) |
 |---|---|
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=1000&pause=600&color=FF0000&background=000000&vCenter=true&multiline=true&width=800&height=200&lines=-%3E+1+-+Selft+Taught+Game+Developer+%F0%9F%8E%AE;-%3E+2+-+Computer+Sciencer+%F0%9F%96%A5;-%3E+3+-+Electronics+and+Communication+Engineer+%F0%9F%94%8C%E2%9A%A1;-%3E+4+-+Computer+Engineer+%F0%9F%92%BB%F0%9F%96%B1;-%3E+5+-+Active+Learner+%26+Researcher+%F0%9F%8C%8F;-%3E+6+-+Beginner+Violinist+%F0%9F%8E%BB;-%3E+7+-+German-Turkish-English+Speaker+%F0%9F%97%A3)](https://git.io/typing-svg)
