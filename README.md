@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=500&color=000000&multiline=true&width=800&height=180&lines=Selft+taught+game+developer;Computer+Sciencer;Electronics+and+Communication+Engineer;Computer+Engineer;Active+Learner+%26+Researcher;Violinist;German-Turkish-English+Speaker)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning literally everything 🤣
-- 👯 I’m looking to collaborate with other game developers from scratch
-- 🥅 2023 goals: read 42 number of reading books.
-- 🥅 2025 goals: be a polyglot
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=500&color=000000&multiline=true&width=800&height=100&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+literally+everything+%F0%9F%A4%A3;%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+with+other+game+developers+from+scratch;%F0%9F%A5%85+2023+goals%3A+read+42+number+of+reading+books.;%F0%9F%A5%85+2025+goals%3A+be+a+polyglot)](https://git.io/typing-svg)
 
 ## Github Stats
 | [![sfidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfidan42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/sfidan42/) | [![sfidan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sfidan42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/sfidan42/) |
