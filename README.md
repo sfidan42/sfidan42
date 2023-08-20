@@ -15,7 +15,7 @@
 | [![sfidan's 42 stats](https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42) | [![sfidan's 42 stats](https://badge42.vercel.app/api/v2/cle5jxxco00060fl91joiooip/stats?cursusId=21&coalitionId=365)](https://github.com/JaeSeoKim/badge42) |
 |---|---|
   
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="3px">
 
 ## DigitalGate Projects
 - [Coding Challenge](https://github.com/sfidan42/Holy_DigitalGate_Project)
@@ -47,22 +47,10 @@
     - [C vec3](https://github.com/sfidan42/vec3-library-diy)
 - Python Projects:
     - [Hangman Game](https://github.com/sfidan42/Hangman-Game)
-    - [YTU Design Project Lecture Codes](https://github.com/sfidan42/YTU_ImgProc1)
 - Matlab Projects:
     - [Covid-App](https://github.com/sfidan42/Covid-19-Visualizer)
 - My Phonebook application
     - [phonebook-api](https://github.com/sfidan42/Phonebook-API): .Net Core (C#)
     - [phonebook-app](https://github.com/sfidan42/Phonebook-APP): Angular Fr.
 - My First Codes
-     - [Follow the link, please.](https://github.com/sfidan42/codes)
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](website_link_here!!!!)
-[![website](./img/globe-dark.svg)](website_link_here!!!!)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sadettin-fidan-2313791a3/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sadettin-fidan-2313791a3/)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/sadettin_00_f/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/sadettin_00_f/)
+     - [Follow the link, please.]([https://github.com/sfidan42/codes](https://github.com/sfidan42/My-First-Codes))
