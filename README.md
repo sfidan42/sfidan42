@@ -2,25 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=1000&pause=600&color=FF0000&background=000000&vCenter=true&multiline=true&width=800&height=200&lines=-%3E+1+-+Selft+Taught+Game+Developer+%F0%9F%8E%AE;-%3E+2+-+Computer+Sciencer+%F0%9F%96%A5;-%3E+3+-+Electronics+and+Communication+Engineer+%F0%9F%94%8C%E2%9A%A1;-%3E+4+-+Computer+Engineer+%F0%9F%92%BB%F0%9F%96%B1;-%3E+5+-+Active+Learner+%26+Researcher+%F0%9F%8C%8F;-%3E+6+-+Beginner+Violinist+%F0%9F%8E%BB;-%3E+7+-+German-Turkish-English+Speaker+%F0%9F%97%A3)](https://git.io/typing-svg)
 
-| ![robot_left](img/robot_right.jpeg) | ![robot_right](img/robot_left.jpeg) |
-|---|---|
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=00FCFF&background=000000&vCenter=true&multiline=true&width=800&height=120&lines=-%3E+-%3E+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+literally+everything+%F0%9F%A4%A3;-%3E+-%3E+%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+with+other+game+developers+from+scratch;-%3E+-%3E+%F0%9F%A5%85+2023+goals%3A+read+42+number+of+reading+books.;-%3E+-%3E+%F0%9F%A5%85+2025+goals%3A+be+a+polyglot)](https://git.io/typing-svg)
 
-## Github Stats
-| [![sfidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfidan42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/sfidan42/) | [![sfidan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sfidan42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/sfidan42/) |
-|---|---|
+# My GitHub Overview
 
- ## My 42 Stats
-[![sfidan's 42 stats](https://badge.mediaplus.ma/darkblue/sfidan?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-  
+| [![sfidan's 42 stats](https://badge.mediaplus.ma/darkblue/sfidan?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) | [My Linux Configs](https://github.com/sfidan42/linux_configs) | [DigitalGate Projects](https://github.com/sfidan42/Holy_DigitalGate_Project) | [Game Engine - Engine42](https://github.com/sfidan42/Engine42) |
+|---|---|---|---|
+
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="3px">
-
-## My linux configs
-- [neovim, oh-my-zsh, kitty theme](https://github.com/sfidan42/linux_configs)
-
-## DigitalGate Projects
-- [Coding Challenge](https://github.com/sfidan42/Holy_DigitalGate_Project)
 
 ## 42 Istanbul projects (All are private and written mostly in C)
 0) **libft**: libc functions' library. DIY
@@ -39,8 +29,12 @@
 13) **Inception**: ***Not yet avaliable*** (Docker)
 14) **Transcendence**: ***Not yet avaliable*** (PONG game)
 
-## Game Engine project I work on:
-- [Engine42](https://github.com/sfidan42/Engine42)
+| ![robot_left](img/robot_right.jpeg) | ![robot_right](img/robot_left.jpeg) |
+|---|---|
+
+## Github Stats
+| [![sfidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfidan42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/sfidan42/) | [![sfidan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sfidan42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/sfidan42/) |
+|---|---|
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
