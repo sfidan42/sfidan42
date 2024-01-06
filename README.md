@@ -7,7 +7,7 @@
 # My GitHub Overview
 
 | [![sfidan's 42 stats](https://badge.mediaplus.ma/darkblue/sfidan?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) | [My Linux Configs](https://github.com/sfidan42/linux_configs) | [DigitalGate Projects](https://github.com/sfidan42/Holy_DigitalGate_Project) | [Game Engine - Engine42](https://github.com/sfidan42/Engine42) |
-|---|---|---|---|
+|---|---|
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="3px">
