@@ -26,9 +26,9 @@
 9) **Netpractice**: Networking exercise
 10) **miniRT**: A raytracing project from scratch
 11) **Cpp Modules 05-09**: Advance in C++
-12) **ft_irc**: ***Not yet avaliable*** (IRC client written in C++)
-13) **Inception**: ***Not yet avaliable*** (Docker)
-14) **Transcendence**: ***Not yet avaliable*** (PONG game)
+12) **ft_irc**: IRC server written in C++
+13) **Inception**: Docker with nginx, wordpress, mariaDB
+14) **Transcendence**: PONG game with pure js, postgreSQL, python django
 
 | ![robot_left](img/robot_right.jpeg) | ![robot_right](img/robot_left.jpeg) |
 |---|---|
