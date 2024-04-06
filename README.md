@@ -7,7 +7,7 @@
 # My GitHub Overview
 
 
-| [![sfidan's 42 stats](https://badge.mediaplus.ma/greenbinary/sfidan)](https://github.com/oakoudad/badge42) | [My Linux Configs](https://github.com/sfidan42/linux_configs) |
+| ![My 42 Holy Graph](img/Holy Graph 2024-04-07.png) | [My Linux Configs](https://github.com/sfidan42/linux_configs) |
 |---|---|
 | [DigitalGate Projects](https://github.com/sfidan42/Holy_DigitalGate_Project) | [Game Engine - Engine42](https://github.com/sfidan42/Engine42) |
 
