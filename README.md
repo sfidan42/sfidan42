@@ -4,10 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=00FCFF&background=000000&vCenter=true&multiline=true&width=800&height=120&lines=-%3E+-%3E+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+literally+everything+%F0%9F%A4%A3;-%3E+-%3E+%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+with+other+game+developers+from+scratch;-%3E+-%3E+%F0%9F%A5%85+2023+goals%3A+read+42+number+of+reading+books.;-%3E+-%3E+%F0%9F%A5%85+2025+goals%3A+be+a+polyglot)](https://git.io/typing-svg)
 
-<img src="img/Holy Graph 2024-04-07.png" alt="My 42 Holy Graph">
-
 # My GitHub Overview
-|---|---|
 | [DigitalGate Projects](https://github.com/sfidan42/Holy_DigitalGate_Project) | [Game Engine - Engine42](https://github.com/sfidan42/Engine42) | [My Linux Configs](https://github.com/sfidan42/linux_configs) |
 
 
@@ -51,3 +48,5 @@
     - [phonebook-app](https://github.com/sfidan42/Phonebook-APP): Angular Fr.
 - My First Codes
      - [Follow the link, please.]([https://github.com/sfidan42/codes](https://github.com/sfidan42/My-First-Codes))
+
+<img src="img/Holy Graph 2024-04-07.png" alt="My 42 Holy Graph">
