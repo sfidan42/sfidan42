@@ -47,6 +47,6 @@
     - [phonebook-api](https://github.com/sfidan42/Phonebook-API): .Net Core (C#)
     - [phonebook-app](https://github.com/sfidan42/Phonebook-APP): Angular Fr.
 - My First Codes
-     - [Follow the link, please.]([https://github.com/sfidan42/codes](https://github.com/sfidan42/My-First-Codes))
+     - [Follow the link, please.](https://github.com/sfidan42/My-First-Codes)
 
 <img src="img/Holy Graph 2024-04-07.png" alt="My 42 Holy Graph">
