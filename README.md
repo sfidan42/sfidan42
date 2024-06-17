@@ -26,6 +26,9 @@
 12) **ft_irc**: IRC server written in C++
 13) **Inception**: Docker with nginx, wordpress, mariaDB
 14) **Transcendence**: PONG game with pure js, postgreSQL, python django
+### Specialization
+- I) **libasm**: few of libc functions and simple linked list functions written in nasm 64bit mode with intel x86 syntax.
+- II) ...
 
 | ![robot_left](img/robot_right.jpeg) | ![robot_right](img/robot_left.jpeg) |
 |---|---|
