@@ -52,4 +52,4 @@
 - My First Codes
      - [Follow the link, please.](https://github.com/sfidan42/My-First-Codes)
 
-<img src="img/Holy Graph 2024-04-07.png" alt="My 42 Holy Graph">
+<img src="img/holy_graph.png" alt="My 42 Holy Graph">
