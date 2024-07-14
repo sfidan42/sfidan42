@@ -27,8 +27,8 @@
 13) **Inception**: Docker with nginx, wordpress, mariaDB
 14) **Transcendence**: PONG game with pure js, postgreSQL, python django
 ### Specialization
-- I) **libasm**: few of libc functions and simple linked list functions written in nasm 64bit mode with intel x86 syntax.
-- II) ...
+- I) [**libasm**](https://github.com/sfidan42/42_I_libasm/tree/macos): intel x86_64 nasm assembly.
+- II) [**computorv1**](https://github.com/sfidan42/42_II_computorv1): C++ program to solve 2nd order polynomials
 
 | ![robot_left](img/robot_right.jpeg) | ![robot_right](img/robot_left.jpeg) |
 |---|---|
