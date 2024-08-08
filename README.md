@@ -29,6 +29,10 @@
 ### Specialization
 - I) [**libasm**](https://github.com/sfidan42/42_I_libasm/tree/macos): intel x86_64 nasm assembly.
 - II) [**computorv1**](https://github.com/sfidan42/42_II_computorv1): C++ program to solve 2nd order polynomials
+- III) [**dr-quine**](https://github.com/sfidan42/42_III_dr-quine)
+- IV) [**ft_linear_regression**](https://github.com/sfidan42/42_IV_ft_linear_regression)
+- V) [**scop**](https://github.com/sfidan42/42_V_scop)
+- VI) [**ftl_quantum**](https://github.com/sfidan42/42_VI_ftl_quantum)
 
 | ![robot_left](img/robot_right.jpeg) | ![robot_right](img/robot_left.jpeg) |
 |---|---|
