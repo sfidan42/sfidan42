@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=00FCFF&background=000000&vCenter=true&multiline=true&width=800&height=120&lines=-%3E+-%3E+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+literally+everything+%F0%9F%A4%A3;-%3E+-%3E+%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+with+other+game+developers+from+scratch;-%3E+-%3E+%F0%9F%A5%85+2025+goals%3A+read+42+number+of+reading+books.;-%3E+-%3E+%F0%9F%A5%85+2027+goals%3A+be+a+polyglot)](https://git.io/typing-svg)
 
 # My GitHub Overview
-| [DigitalGate Projects](https://github.com/sfidan42/Holy_DigitalGate_Project) | [Game Engine - Engine42](https://github.com/sfidan42/Engine42) | [My Linux Configs](https://github.com/sfidan42/linux_configs) |
+| [DigitalGate Projects](https://github.com/sfidan42/Holy_DigitalGate_Project) | [RigHumanGL]([https://github.com/sfidan42/Engine42](https://github.com/sfidan42/RigHumanGL)) | [My Linux Configs](https://github.com/sfidan42/linux_configs) |
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="3px">
