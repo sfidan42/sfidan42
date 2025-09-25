@@ -7,6 +7,7 @@
 # My GitHub Overview
 | [DigitalGate Projects](https://github.com/sfidan42/Holy_DigitalGate_Project) | [RigHumanGL](https://github.com/sfidan42/RigHumanGL) | [My Linux Configs](https://github.com/sfidan42/linux_configs) |
 
+Multi-agent chatbot with graph memory using graphiti: [Access the repo](https://github.com/sfidan42/ChatbotPlus)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="3px">
 
